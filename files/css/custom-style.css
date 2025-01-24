@@ -1,0 +1,26 @@
+font-bold {
+    font-weight: bold;
+  }
+  .text-15 {
+    font-size: 15px;
+  }
+
+  img:hover {
+    transform: scale(1.2);
+  }
+
+  img {
+    transition: 1s;
+  }
+
+  section {
+    margin-top: 70px !important;
+    margin-bottom: 70px !important;
+  }
+body{
+    background-color:black;
+    color: deeppink;
+}
+text{
+    color:red;
+}
